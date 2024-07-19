@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/prabhashpadhan/Desktop/books reading now/code/codeforces/contests/round 959 div1+div2",
+      "program": "/Users/prabhashpadhan/Desktop/books reading now/code/codeforces/contests/round 959 div1+div2/build/Debug/outDebug"
+    }
+  ]
+}
